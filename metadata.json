@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Roots - Sustainable Agriculture Farm",
+  "description": "Verdant Roots is a regenerative agricultural estate offering certified organic produce, heirloom harvest, farm tours, and sustainable farming consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
